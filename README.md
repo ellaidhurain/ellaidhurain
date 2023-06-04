@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![MasterHead](https://i0.wp.com/plopdo.com/wp-content/uploads/2021/07/Screenshot-1.png?resize=1210%2C642&ssl=1)
 <h1 align="center">Hi 👋, I'm ellaidhurai</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/ab8e7570deff8feb453225b88ebe140cbc446cddc5f9fae49aeeeec741e1090d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63652f36392f34662f63653639346635363036333664666663663432656366343064346632663936322e676966"/>
