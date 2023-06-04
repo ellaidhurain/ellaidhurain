@@ -1,11 +1,13 @@
-![MasterHead](https://i0.wp.com/plopdo.com/wp-content/uploads/2021/07/Screenshot-1.png?resize=1210%2C642&ssl=1)
+![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)
 <h1 align="center">Hi 👋, I'm ellaidhurai</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/ab8e7570deff8feb453225b88ebe140cbc446cddc5f9fae49aeeeec741e1090d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63652f36392f34662f63653639346635363036333664666663663432656366343064346632663936322e676966"/>
+<img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ellaidhurain&label=Profile%20views&color=0e75b6&style=flat" alt="ellaidhurain" /> </p>
+<!-- <br> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ellaidhurain&label=Profile%20views&color=0e75b6&style=flat" alt="ellaidhurain" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ellaidhurain" alt="ellaidhurain" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ellaidhurain" alt="ellaidhurain" /></a> </p> -->
+<!-- <br> -->
 
 - 🔭 I’m currently working on **campuzone**
 
