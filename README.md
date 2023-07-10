@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **campuzone**
 
-- 🌱 I’m currently learning **react js**
+- 🌱 I’m currently learning **react js** **Node js** **Django**
 
 - 👯 I’m looking to collaborate on **react js**
 
