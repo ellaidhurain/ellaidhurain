@@ -11,13 +11,13 @@
 
 - 🔭 I’m currently working on **campuzone**
 
-- 🌱 I’m currently learning **react js** **Node js** **Django**
+- 🌱 I’m currently learning React js ,Node js, Django
 
-- 👯 I’m looking to collaborate on **react js**
+- 👯 I’m looking to collaborate on **React js**
 
-- 🤝 I’m looking for help with **react js**
+- 🤝 I’m looking for help with **React js**
 
-- 💬 Ask me about **javascript, html, css , selenium, django**
+- 💬 Ask me about **Javascript, HTML, CSS ,React Js, Selenium
 
 - 📫 How to reach me **ellaidev01@gmail.com**
 
