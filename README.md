@@ -17,7 +17,7 @@
 
 - 💬 Ask me about Javascript, HTML, CSS ,React Js, Selenium
 
-- 📫 How to reach me **ellaidev01@gmail.com**
+- 📫 How to reach me **ellaidhuraidev@gmail.com**
 
 - ⚡ Fun fact **hot & cool**
 
